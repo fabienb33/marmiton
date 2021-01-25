@@ -21,7 +21,7 @@ header img {
 }
 
 .container {
-  width: 1024px;
+  width: 964px;
   border-radius: 10px;
   margin: 0 auto;
   margin-top: 60px;
@@ -124,12 +124,21 @@ h7 {
   color: #fff;
   margin: 0 auto;
   margin-top: 30px;
+  margin-bottom: 60px;
 }
 
 .img-recepe img {
   height: 300px;
   width: 300px;
   border-radius: 10px;
-  margin-top: 60px;
-  mar
+  float: left;
+  margin-bottom: 60px;
+}
+
+.img-recepe2 img {
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+  float: left;
+  margin: 0px 30px 60px 30px;
 }
